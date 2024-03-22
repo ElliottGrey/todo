@@ -1,1 +1,1 @@
-# Akbarjon 
+print('hello world')
